@@ -39,6 +39,8 @@ sudo add-apt-repository ppa:chris-lea/node.js
 sudo apt-get update
 # Now install nodejs and npm
 sudo apt-get install -y nodejs
+# Install express
+sudo npm install express
 
 # git pull and install dotfiles as well
 cd $HOME
