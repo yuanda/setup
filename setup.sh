@@ -41,6 +41,8 @@ sudo apt-get update
 sudo apt-get install -y nodejs
 # Install express
 sudo npm install express
+# Install tree
+sudo apt-get install -y tree
 
 # git pull and install dotfiles as well
 cd $HOME
